@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-271-industrial-organization-i-fall-2005/b425f83f1183def95e8f5febde9e2f27_ps2.pdf
+file: /media/courses/14-271-industrial-organization-i-fall-2005/b425f83f1183def95e8f5febde9e2f27_ps2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: ps2.pdf
 uid: b425f83f-1183-def9-5e8f-5febde9e2f27
