@@ -15,8 +15,8 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2-1))
 
 ### Data for Problem Set 2
 
-*   broiler.csv ([CSV](/courses/economics/14-271-industrial-organization-i-fall-2005/assignments/broiler.csv))
-*   berryLogit.csv ([CSV](/courses/economics/14-271-industrial-organization-i-fall-2005/assignments/berrylogit.csv))
+*   broiler.csv ([CSV]({{< baseurl >}}/resources/broiler-1))
+*   berryLogit.csv ([CSV]({{< baseurl >}}/resources/berrylogit-1))
 
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3-1))
 
