@@ -1,11 +1,15 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-271-industrial-organization-i-fall-2005/b425f83f1183def95e8f5febde9e2f27_ps2.pdf
+file: /courses/14-271-industrial-organization-i-fall-2005/b425f83f1183def95e8f5febde9e2f27_ps2.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Document
 title: ps2.pdf
 uid: b425f83f-1183-def9-5e8f-5febde9e2f27
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
