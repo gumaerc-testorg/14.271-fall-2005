@@ -1,14 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-271-industrial-organization-i-fall-2005/b425f83f1183def95e8f5febde9e2f27_ps2.pdf
-file_type: application/pdf
+file: /courses/14-271-industrial-organization-i-fall-2005/6419408a34af10bcff063f19f550ca4b_berrylogit.csv
+file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-resourcetype: Document
-title: ps2.pdf
-uid: b425f83f-1183-def9-5e8f-5febde9e2f27
+resourcetype: Other
+title: berrylogit.csv
+uid: 6419408a-34af-10bc-ff06-3f19f550ca4b
 video_files:
   video_thumbnail_file: null
 video_metadata:
