@@ -5,6 +5,7 @@ file: /courses/14-271-industrial-organization-i-fall-2005/9549c6625691610bda882d
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes special supporting files for problem set 2.
-

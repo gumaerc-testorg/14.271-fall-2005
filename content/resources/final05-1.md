@@ -7,6 +7,7 @@ file: /courses/14-271-industrial-organization-i-fall-2005/c35a45f7e7a2fc4c36b887
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains questions on asymmetric cournot model, whether entry, socially efficient, revenue equivalence theorem and principles of patent design.
-
