@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-271-industrial-organization-i-fall-2005/93a7b175ac77190165b46a2a558b8b2e_broiler.csv
+file_size: 2844
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
