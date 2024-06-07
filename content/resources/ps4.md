@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-271-industrial-organization-i-fall-2005/20f4d6483ace3302cdef1deabc7f0cf3_ps4.pdf
+file_size: 62785
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

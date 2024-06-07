@@ -4,6 +4,7 @@ description: This resource contains questions on asymmetric cournot model, wheth
   entry, socially efficient, revenue equivalence theorem and principles of patent
   design.
 file: /courses/14-271-industrial-organization-i-fall-2005/c35a45f7e7a2fc4c36b8875931bb2b3c_final05.pdf
+file_size: 114418
 file_type: application/pdf
 learning_resource_types:
 - Exams
