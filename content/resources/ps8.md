@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-271-industrial-organization-i-fall-2005/8bd60de62f65434d2a3e2b86baa44ac4_ps8.pdf
+file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2005/8bd60de62f65434d2a3e2b86baa44ac4_ps8.pdf
 file_size: 56158
 file_type: application/pdf
 learning_resource_types: []
