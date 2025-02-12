@@ -12,11 +12,11 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-This section contains the required and supplemental readings for the course. Readings are also presented by [session](#readings).
+This section contains the required and supplemental readings for the course. Readings are also presented by [session](https://ocw-studio.odl.mit.edu/sites/14-271-industrial-organization-i-fall-2005/type/page/edit/a85edc99-ad27-00f5-b901-03c3cb2dd918/#readings).
 
 The primary text for the course is:
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988. ISBN: 0262200716.         
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988. ISBN: 0262200716.          
 The text provides an overview of most of the theoretical topics. The text is supplemented with a large number of recent journal articles. Many of these articles are easily accessible via [JSTOR](http://www.jstor.org/).
 
 ## Required Readings
@@ -59,7 +59,7 @@ Klemperer, P. "Auction Theory: A Guide to the Literature." *Journal of Economic 
 
 Athey S., and P. Haile. "Empirical Models of Auctions." NBER Working Paper 12126. National Bureau of Economic Research, Cambridge, MA, March 2006. ([PDF](http://papers.nber.org/papers/w12126.pdf))
 
-Bresnahan, T. "Network Effects and Microsoft." Stanford University, Palo Alto, CA, 2001. ([PDF](http://www-siepr.stanford.edu/papers/pdf/00-51.pdf))
+Bresnahan, T. "[Network Effects and Microsoft"(PDF](https://drive.google.com/file/d/11AzIZvpJRsy5zFzzzJeLI7nTBerYOnBd/view)). Stanford University, Palo Alto, CA, 2001. 
 
 ![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 10.1-10.5 and 8.1.3. ISBN: 0262200716.
 
@@ -133,7 +133,7 @@ McAfee, R. P., J. McMillan, and M. Whinston. "Multiproduct Monopoly, Commodity B
 
 Fudenberg, D., and J. Tirole. "Upgrades, Trade-ins, and Buybacks." *Rand Journal of Economics* 29 (Summer 1998): 235-258.
 
-Armstrong, M. "Recent Developments in the Economics of Price Discrimination." Econ Working Paper Archive, Industrial Organization Paper, 2006. ([PDF](http://www.econ.ucl.ac.uk/downloads/armstrong/pd.pdf))
+Armstrong, M. "[Recent Developments in the Economics of Price Discrimination"(PDF)](https://discovery.ucl.ac.uk/id/eprint/14558/1/14558.pdf). Econ Working Paper Archive, Industrial Organization Paper, 2006. 
 
 Borenstein, S., and N. Rose. "Competition and Price Dispersion in the U.S. Airline Industry." *Journal of Political Economy* 102 (August 1994): 653-683.
 
@@ -395,7 +395,7 @@ Fudenberg, D., and J. Tirole. "Pricing Under the Threat of Entry by the Sole Sup
 
 Ellison, G., and D. Fudenberg. "The Neo-Luddite's Lament: Excessive Upgrades in the Software Industry." *Rand Journal of Economics* 31 (Summer 2000): 253-272.
 
-Bresnahan, T. "Network Effects and Microsoft." Stanford University, Palo Alto, CA, 2001. ([PDF](http://www-siepr.stanford.edu/papers/pdf/00-51.pdf))
+Bresnahan, T. ["Network Effects and Microsoft" (PDF](https://drive.google.com/file/d/11AzIZvpJRsy5zFzzzJeLI7nTBerYOnBd/view)). Stanford University, Palo Alto, CA, 2001. 
 
 Gandal, N., M. Kende, and R. Rob. "The Dynamics of Technological Adoption in Hardware/Software Systems: The Case of Compact Disc Players." *Rand Journal of Economics* 31, no. 1 (Spring 2000): 43-61.
 
